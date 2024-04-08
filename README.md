@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python for Data Analysis, 3rd Edition
 
 Materials and IPython notebooks for "Python for Data Analysis, 3rd
@@ -47,3 +48,7 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 [2]: https://github.com/wesm/pydata-book/tree/1st-edition
 [5]: https://github.com/wesm/pydata-book/tree/2nd-edition
 [6]: https://wesmckinney.com/book/
+=======
+# Python-Data-Analyst
+Practice Teorical &amp; Sistem Analyst
+>>>>>>>
